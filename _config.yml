@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Snow Days
+subtitle: 'Yet another site'
+description: '今回から本気を出す'
+keywords: 'SI'
+author: Arthas
+language: ja
+timezone: 'Japan'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://snowdays.world/h/
+root: /h/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -93,9 +93,24 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: simple-japanese
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+# Sidebar
+widgets:
+  - search
+  - profile
+  - recent_posts
+  - tagcloud
+  - archive
+
+
+# Contact
+contact:
+  url: https://snowdays.world/
+  icon: github # font-awesome icon. e.x) fa-github
+
