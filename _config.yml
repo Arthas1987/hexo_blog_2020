@@ -115,8 +115,3 @@ contact:
   url: https://snowdays.world/
   icon: github # font-awesome icon. e.x) fa-github
 
-# Custom assets
-simple_japanese:
-  custom_assets:
-    css: css/custom.css
-    js: js/custom.js
