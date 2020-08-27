@@ -1,5 +1,5 @@
 ---
-title: [WIP]A new home
+title: (WIP)A new home
 ---
 前のVPSサーバーは、クレカー有効期限切れのせいで削除されてしまった。
 バックアップもないのでゼロから作るしかない。
