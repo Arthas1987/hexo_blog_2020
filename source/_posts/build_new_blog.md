@@ -28,11 +28,11 @@ WordPressは優秀なブログだが、技術ブログに対して下記の不�
 
 NginxもNode.jsもよく分からないため、いろんな罠にハマった。そこでここに構築の流れをざっくり書きたい。
 構築前のVPSは`CentOS + Nginx`の構成である。
-![alt](/images/io.png)
+![alt](/hexo/images/io.png)
 
 ### 完成後のネットワーク構成図
 
-![alt](/images/new_net.png)
+![alt](/hexo/images/new_net.png)
 
 ### HEXOのインストール
 
